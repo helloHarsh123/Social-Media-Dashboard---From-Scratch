@@ -1,3 +1,8 @@
+Target Users:
+
+Individuals and businesses who manage multiple social media accounts and seek a unified platform for monitoring, analyzing, and managing their online presence.
+
+Core features: 
 1. User Authentication and Authorization:
   a. Implement secure user login and registration using email/password or social logins (e.g., Google, Facebook).
   b. Utilize secure token-based authentication (JWT) to protect user data and prevent unauthorized access.
